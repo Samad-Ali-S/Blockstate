@@ -110,7 +110,7 @@ BlockState provides **real-time process enforcement**, **domain blocking**, and 
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR-USERNAME/blockstate.git
+git clone https://github.com/Samad/blockstate.git
 cd blockstate
 
 # Install dependencies
@@ -467,7 +467,7 @@ We welcome contributions! Here's how to get started:
 
 ### 1. Fork the Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/blockstate.git
+git clone https://github.com/Samad/blockstate.git
 cd blockstate
 ```
 
@@ -532,13 +532,7 @@ git push origin feature/your-feature-name
 
 ---
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/YOUR-USERNAME/blockstate/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR-USERNAME/blockstate/discussions)
-- **Email**: support@blockstate.com
-- **Documentation**: See `/docs` folder
-
+ 
 ---
 
 ## 📄 License
@@ -592,7 +586,7 @@ We believe entrepreneurs and knowledge workers deserve tools that actually work.
 
 ### ⭐ If you find BlockState helpful, please consider giving it a star!
 
-[GitHub](https://github.com/YOUR-USERNAME/blockstate) | [LinkedIn](https://linkedin.com/in/YOUR-PROFILE) | [Email](mailto:support@blockstate.com)
+[GitHub](https://github.com/Samad/blockstate) | [LinkedIn](https://www.linkedin.com/in/samad-ali-siddiqui-a6790b323/) |  
 
 **Made with ❤️ for entrepreneurs and builders**
 
