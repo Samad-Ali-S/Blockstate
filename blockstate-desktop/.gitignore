@@ -1,0 +1,36 @@
+# Tauri
+/src-tauri/target
+/dist
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build output
+/build
+/out
+*.exe
+*.msi
+
+# Rust
+Cargo.lock
+**/*.rs.bk
+
+# OS
+Thumbs.db
+.DS_Store
