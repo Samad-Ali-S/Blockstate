@@ -7,6 +7,8 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org)
 [![Tauri](https://img.shields.io/badge/Tauri-Desktop-orange.svg)](https://tauri.app)
+
+
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)](#)
 
 ---
