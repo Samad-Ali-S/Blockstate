@@ -3,7 +3,7 @@
 > **A venture-ready productivity ecosystem that enforces deep work through real-time process enforcement and intelligent workflow management.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![React](https://img.shields.io/badge/React-19-blue.svg)](https://react.dev)
+[![React](https://img.shields.io/badge/React-19-blue.svg)](https://react.dev)f
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org)
 [![Tauri](https://img.shields.io/badge/Tauri-Desktop-orange.svg)](https://tauri.app)
