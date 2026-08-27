@@ -60,6 +60,8 @@ BlockState provides **real-time process enforcement**, **domain blocking**, and 
 ### ⚙️ Workflow Management
 - **Custom Workflows**: Create reusable focus profiles (e.g., "Deep Work", "Coding Sprint", "Writing Session")
 - **Flexible Presets**: 15min, 25min, 45min, 90min focus sessions
+
+- 
 - **Break Management**: Automatic break reminders with customizable intervals
 - **Notification System**: Sound alerts and desktop notifications
 - **Session Templates**: Save and reuse configurations
